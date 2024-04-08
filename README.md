@@ -8,34 +8,71 @@
 * 🤝 Team culture as a cornerstone.
 * 🔥 Check my games on [My Itch.io page](https://whiestar.itch.io/)!
 
-<img alt="TDD" src="https://img.shields.io/badge/TDD-blueviolet?style=for-the-badge" />
-<img alt="XP" src="https://img.shields.io/badge/XP-darkolivegreen?style=for-the-badge" />
-<img alt="Refactoring" src="https://img.shields.io/badge/Refactoring-brown?style=for-the-badge" />
-<img alt="Testing" src="https://img.shields.io/badge/Test_Automation-darkcyan?style=for-the-badge" />
-<img alt="Pair" src="https://img.shields.io/badge/Pair%2FMob_Programming-crimson?style=for-the-badge" />
-<img alt="Solid" src="https://img.shields.io/badge/SOLID-darkblue?style=for-the-badge" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+## Skills
+### Software Crafting Skills
+<img alt="TDD" src="https://img.shields.io/badge/TDD-blueviolet?style=flat-square" />
+<img alt="XP" src="https://img.shields.io/badge/XP-darkolivegreen?style=flat-square" />
+<img alt="Refactoring" src="https://img.shields.io/badge/Refactoring-brown?style=flat-square" />
+<img alt="Testing" src="https://img.shields.io/badge/Test_Automation-darkcyan?style=flat-square" />
+<img alt="Pair" src="https://img.shields.io/badge/Pair%2FMob_Programming-crimson?style=flat-square" />
+<img alt="Solid" src="https://img.shields.io/badge/SOLID-darkblue?style=flat-square" />
+
+### Tech Stack
+<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white" />
+<img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-<img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl" />
+
+
+
+<img alt="NUnit" src="https://img.shields.io/badge/NUnit-blue?style=flat-square" />
+<img alt="XUnit" src="https://img.shields.io/badge/XUnit-blue?style=flat-square" />
+<img alt="Fluent Assertions" src="https://img.shields.io/badge/Fluent%2FAssertions-blue?style=flat-square" />
+<img alt="Playfab" src="https://img.shields.io/badge/Playfab-blue?style=flat-square" />
+<img alt="Atlassian" src="https://img.shields.io/badge/Atlassian-blue?style=flat-square" />
+<img alt="UML" src="https://img.shields.io/badge/UML-blue?style=flat-square" />
+<img alt="DDD" src="https://img.shields.io/badge/DDD-blue?style=flat-square" />
+<img alt="Trunk Based Development" src="https://img.shields.io/badge/Trunk%2FBased%2FDevelopment-blue?style=flat-square" />
+<img alt="Software Architecture" src="https://img.shields.io/badge/Software%2FArchitecture-blue?style=flat-square" />
+<img alt="Functional Programming" src="https://img.shields.io/badge/Functional%2FProgramming-blue?style=flat-square" />
+<img alt="Tool Programming" src="https://img.shields.io/badge/Tool%2FProgramming-blue?style=flat-square" />
+<img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-blue?style=flat-square" />
+<img alt="Clean Code" src="https://img.shields.io/badge/Clean%2FCode-blue?style=flat-square" />
+<img alt="Design patterns" src="https://img.shields.io/badge/Design%2Fpatterns-blue?style=flat-square" />
+<img alt="Agile" src="https://img.shields.io/badge/Agile-blue?style=flat-square" />
+<img alt="Lean" src="https://img.shields.io/badge/Lean-blue?style=flat-square" />
+
+### Game Development
+<img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" />
+<img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white" />
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+<img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=#7D929E" />
+<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" />
+
+<img alt="" src="" />
+### Other Technologies
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" />
+<img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?style=flat-square&logo=android%20studio&logoColor=white" />
+<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" />
+<img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" />
+<img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=flat-square&logo=Rider&logoColor=white&color=black&labelColor=crimson" />
+<img alt="TeamCity" src="https://img.shields.io/badge/teamcity-000000.svg?style=flat-square&logo=teamcity&logoColor=white" />
+<img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
+<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
+<img alt="SonarLint" src="https://img.shields.io/badge/SonarLint-CB2029?style=flat-square&logo=SONARLINT&logoColor=white" />
+<img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD" />
+<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-<img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-<img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
