@@ -1,6 +1,6 @@
 # Hey! I'm [Juan Alberto Martínez Lopez](https://www.linkedin.com/in/juan-albert/)  <img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif" width="40"/>
 
-<p>Welcome to my page! </br> I'm Juan Alberto, Gamedev from <img src="https://cdn-icons-png.flaticon.com/128/323/323365.png" width="13"/> <b>Granada, Spain</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/323/323365.png" width="13"/> <b>Málaga, Spain</b>. </p>
+<p>Welcome to my page! </br> I'm a Gamedev from <img src="https://cdn-icons-png.flaticon.com/128/323/323365.png" width="13"/> <b>Granada, Spain</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/323/323365.png" width="13"/> <b>Málaga, Spain</b>. </p>
 
 ## About me
 
