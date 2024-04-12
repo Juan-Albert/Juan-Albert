@@ -67,12 +67,13 @@
 ### Other Technologies
 
 <p>
-<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" />
 <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" />
 <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=flat-square&logo=Rider&logoColor=white&color=black&labelColor=crimson" />
 <img alt="TeamCity" src="https://img.shields.io/badge/teamcity-000000.svg?style=flat-square&logo=teamcity&logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />  
 <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD" />
+<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" />
+<img alt="Android Studio" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 <img alt="SonarLint" src="https://img.shields.io/badge/SonarLint-CB2029?style=flat-square&logo=SONARLINT&logoColor=white" />
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" />
@@ -85,7 +86,6 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" />
 <img alt="Playfab" src="https://img.shields.io/badge/Playfab-f76a1f?style=flat-square" />
-<img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-4bd88a?style=flat-square&logo=android%20studio&logoColor=white" />
 </p>
 
 ## 📚 Bookshelf
