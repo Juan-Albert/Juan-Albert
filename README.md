@@ -58,10 +58,18 @@
 <p>
 <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" />
 <img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white" />
+<img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=#7D929E"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-001d34.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" />
-<img alt="Tool Programming" src="https://img.shields.io/badge/Tool%20Programming-442DB9?style=flat-square" /> 
-<img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=#7D929E" />
+<img alt="Blender" src="https://img.shields.io/badge/blender-F77C43.svg?style=flat-square&logo=blender&logoColor=white" />
+<img alt="Tool Programming" src="https://img.shields.io/badge/Tool%20Programming-E48A5E?style=flat-square" /> 
+<img alt="PC/Console" src="https://img.shields.io/badge/PC/Console%20Development-D89646?style=flat-square" /> 
+<img alt="Mobile" src="https://img.shields.io/badge/Mobile%20Development-C3A43C?style=flat-square" /> 
+<img alt="UIDesign" src="https://img.shields.io/badge/UI-B6AD43?style=flat-square" /> 
+<img alt="Fast prototyping" src="https://img.shields.io/badge/Fast%20Prototiping-A8B450?style=flat-square" /> 
+<img alt="ECS" src="https://img.shields.io/badge/ECS-97BA5E?style=flat-square" /> 
+<img alt="NetworkedGames" src="https://img.shields.io/badge/Networked%20Games-85C171?style=flat-square" /> 
+
+
 </p>
 
 ### Other Technologies
@@ -74,18 +82,18 @@
 <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD" />
 <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" />
 <img alt="Android Studio" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img alt="SonarLint" src="https://img.shields.io/badge/SonarLint-CB2029?style=flat-square&logo=SONARLINT&logoColor=white" />
+<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" />
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" />
 <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white" />
 <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white" />
-<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" />
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="PlantUML" src="https://img.shields.io/badge/PlantUML-yellow?style=flat-square&logo=uml&logoColor=white" />
+<img alt="SonarLint" src="https://img.shields.io/badge/SonarLint-CB2029?style=flat-square&logo=SONARLINT&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" />
 <img alt="Playfab" src="https://img.shields.io/badge/Playfab-f76a1f?style=flat-square" />
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" />
+<img alt="PlantUML" src="https://img.shields.io/badge/PlantUML-yellow?style=flat-square&logo=uml&logoColor=white" />
 </p>
 
 ## 📚 Bookshelf
