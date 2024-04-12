@@ -15,41 +15,42 @@
 ### Software Crafting Skills
 
 <p>
-<img alt="TDD" src="https://img.shields.io/badge/TDD-FFFFFF?style=flat-square" />
-<img alt="XP" src="https://img.shields.io/badge/XP-darkolivegreen?style=flat-square" />
-<img alt="Refactoring" src="https://img.shields.io/badge/Refactoring-brown?style=flat-square" />
-<img alt="Testing" src="https://img.shields.io/badge/Test_Automation-darkcyan?style=flat-square" />
-<img alt="Pair" src="https://img.shields.io/badge/Pair%2FMob_Programming-crimson?style=flat-square" />
-<img alt="Solid" src="https://img.shields.io/badge/SOLID-darkblue?style=flat-square" />
-<img alt="DDD" src="https://img.shields.io/badge/DDD-blue?style=flat-square" />
-<img alt="Agile" src="https://img.shields.io/badge/Agile-blue?style=flat-square" />
-<img alt="Lean" src="https://img.shields.io/badge/Lean-blue?style=flat-square" />
-<img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-blue?style=flat-square" />
-<img alt="Clean Code" src="https://img.shields.io/badge/Clean%20Code-blue?style=flat-square" />
-<img alt="Design patterns" src="https://img.shields.io/badge/Design%20patterns-blue?style=flat-square" />
-<img alt="Software Architecture" src="https://img.shields.io/badge/Software%20Architecture-blue?style=flat-square" />
-<img alt="UML" src="https://img.shields.io/badge/UML-blue?style=flat-square" />
+<img alt="TDD" src="https://img.shields.io/badge/TDD-e5807c?style=flat-square" />
+<img alt="XP" src="https://img.shields.io/badge/XP-e27d8c?style=flat-square" />
+<img alt="Refactoring" src="https://img.shields.io/badge/Refactoring-dd7c9b?style=flat-square" />
+<img alt="Testing" src="https://img.shields.io/badge/Test_Automation-d67caa?style=flat-square" />
+<img alt="Pair" src="https://img.shields.io/badge/Pair%2FMob_Programming-ce7db9?style=flat-square" />
+<img alt="Solid" src="https://img.shields.io/badge/SOLID-c37fc5?style=flat-square" />
+<img alt="DDD" src="https://img.shields.io/badge/DDD-b682d0?style=flat-square" />
+<img alt="Agile" src="https://img.shields.io/badge/Agile-a985d9?style=flat-square" />
+<img alt="Lean" src="https://img.shields.io/badge/Lean-9989df?style=flat-square" />
+<img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-888de2?style=flat-square" />
+<img alt="Clean Code" src="https://img.shields.io/badge/Clean%20Code-7592e2?style=flat-square" />
+<img alt="Design patterns" src="https://img.shields.io/badge/Design%20patterns-6196e0?style=flat-square" />
+<img alt="Software Architecture" src="https://img.shields.io/badge/Software%20Architecture-4a9ada?style=flat-square" />
+
 </p>
 
 ### Tech Stack
 
 <p>
-<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white" />
-<img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl" />
-<img alt="NUnit" src="https://img.shields.io/badge/NUnit-blue?style=flat-square" />
-<img alt="XUnit" src="https://img.shields.io/badge/XUnit-blue?style=flat-square" />
-<img alt="Fluent Assertions" src="https://img.shields.io/badge/Fluent%20Assertions-blue?style=flat-square" />
-<img alt="Trunk Based Development" src="https://img.shields.io/badge/Trunk%20Based%20Development-blue?style=flat-square" />
-<img alt="Functional Programming" src="https://img.shields.io/badge/Functional%20Programming-blue?style=flat-square" />
+<img alt=".Net" src="https://img.shields.io/badge/.NET-22cadd?style=flat-square&logo=.net&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/c-1ccbcd.svg?style=flat-square&logo=c&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/c%23-2ccbbb.svg?style=flat-square&logo=csharp&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/c++-42caa8.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/java-59c895.svg?style=flat-square&logo=openjdk&logoColor=white" />
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-6fc482.svg?style=flat-square&logo=ruby&logoColor=white" />
+<img alt="HTML" src="https://img.shields.io/badge/html5-84c070.svg?style=flat-square&logo=html5&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-97ba5f.svg?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/php-a8b44f.svg?style=flat-square&logo=php&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-b7ad44?style=flat-square&logo=docker&logoColor=white" />
+<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-c4a53d.svg?style=flat-square&logo=opengl" />
+<img alt="NUnit" src="https://img.shields.io/badge/NUnit-cf9e3d?style=flat-square" />
+<img alt="XUnit" src="https://img.shields.io/badge/XUnit-d89644?style=flat-square" />
+<img alt="Fluent Assertions" src="https://img.shields.io/badge/Fluent%20Assertions-df8f4f?style=flat-square" />
+<img alt="Trunk Based Development" src="https://img.shields.io/badge/Trunk%20Based%20Development-e3895d?style=flat-square" />
+<img alt="Functional Programming" src="https://img.shields.io/badge/Functional%20Programming-e5846c?style=flat-square" />
+<img alt="UML" src="https://img.shields.io/badge/UML-e5807c?style=flat-square" />
 </p>
 
 ### Game Development
