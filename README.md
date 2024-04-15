@@ -5,10 +5,22 @@
 ## About me
 
 * 🗺 Spanish, English.
-* 🎮 Software Craftperson, Game developer.
+* 🛠 Software Craftperson, Game developer.
 * 🏛️ Strong interest in well-known, established software principles.
 * 🤝 Team culture as a cornerstone.
-* 🔥 Check my games on [My Itch.io page](https://whiestar.itch.io/)!
+* 🎮 Check my games on [My Itch.io page](https://whiestar.itch.io/)!
+
+## Contact me!
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+
+[gmail]: mailto:juanmartinezlopez96?subject=HiFromGitHub
+[linkedin]: https://www.linkedin.com/in/juan-albert/
+[twitter]: https://twitter.com/Whiestar
+
+<br/>
 
 ## Skills
 
@@ -28,7 +40,6 @@
 <img alt="Clean Code" src="https://img.shields.io/badge/Clean%20Code-7592e2?style=flat-square" />
 <img alt="Design patterns" src="https://img.shields.io/badge/Design%20patterns-6196e0?style=flat-square" />
 <img alt="Software Architecture" src="https://img.shields.io/badge/Software%20Architecture-4a9ada?style=flat-square" />
-
 </p>
 
 ### Tech Stack
@@ -68,8 +79,6 @@
 <img alt="Fast prototyping" src="https://img.shields.io/badge/Fast%20Prototiping-A8B450?style=flat-square" /> 
 <img alt="ECS" src="https://img.shields.io/badge/ECS-97BA5E?style=flat-square" /> 
 <img alt="NetworkedGames" src="https://img.shields.io/badge/Networked%20Games-85C171?style=flat-square" /> 
-
-
 </p>
 
 ### Other Technologies
@@ -100,29 +109,32 @@
 
 📖 Current readings:
 
-* Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable and Maintainable Systems; Martin Kleppmann
+* Extreme Programming Explained: Embrace Change; Kent Beck; Cynthia Andres
 * Soft Skills: The Software Developer's Life Manual; John Sonmez
-* The Mythical Man-Month: Essays on Software Engineering; Fred Brooks
 
 📕 Previous readings:
 
 * Clean Code: A Handbook of Agile Software Craftsmanship; Robert C. Martin
 * Clean Architecture: A Craftsman's Guide to Software Structure and Design; Robert C. Martin
-* Extreme Programming Explained: Embrace Change; Kent Beck; Cynthia Andres
-* Idea Flow: How to Measure the PAIN in Software Development; Janelle Klein
-* Test-Driven Development By Example; Kent Beck
+* The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin.
 * The Art of Readable Code. Simple and Practical techniques for Writing Better Code; Dustin Boswell; Trevor Foucher
-* The Clean Coder. A Code of Conduct for Professional Programmers; Robert C. Martin
+* Idea Flow: How to Measure the PAIN in Software Development; Janelle Klein
 * Theory of Constraints; Eliyahu M. Goldratt
 * The Software Craftsman: Professionalism, Pragmatism, Pride; Sandro Mancuso
 * Unit Testing. Principles, Practices and Patterns; Vladimir Khorikov
 * Working Effectively With Legacy Code; Michael C. Feathers
-
+* UML Distilled; Martin Fowler
+* Refactoring: Improving the Design of Existing Code; Martin Fowler.
+* Dependency Injection; Mark Seeman, Steven van Deursen.
+* Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
+  
 🔮 Future readings:
 
-* Accelerate: The Science of Lean Software and DevOps; Nicole Forsgren; PhD Jez Humble; Gene Kim
+* Rework; Jason Fried; David Heinemeier
+* Remote; DHH.
+* Domain-Driven Design; Eric Evans.
+* Test-Driven Development By Example; Kent Beck
 * Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman; Dave H Hoover; Adewale Oshineye
-* The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win; Gene Kim; Kevin Behr; George Spafford
-* Peopleware: Productive Projects and Teams; Tom DeMarco; Timothy Lister
+* Object Oriented Analysis and Design with Applications; Grady Booch.
 
 ---
